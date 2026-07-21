@@ -2,7 +2,7 @@
 
 NoiseCheck is a full-stack, crowdsourced platform designed to map, track, and analyze environmental noise pollution across Tamil Nadu, India. It combines community-submitted noise readings with official federal data (US DOT NTAD 2020 simulation integration) to create an interactive decibel heatmap.
 
-## ✨ Features
+## Features
 * **Interactive Heatmap**: Powered by Maplibre GL, visualizing crowdsourced noise reports across Tamil Nadu.
 * **Live Decibel Meter**: Web Audio API integration allowing users to log live ambient noise directly from their microphone.
 * **Federal Baseline Comparison**: Integration with US DOT NTAD 2020 Transportation Noise data to compare crowdsourced data against simulated federal noise models.
@@ -10,12 +10,12 @@ NoiseCheck is a full-stack, crowdsourced platform designed to map, track, and an
 * **Personal Dashboard**: Users can track their total noise logging impact and view their historical contributions.
 * **Time & Day Filters**: Filter the state-wide heatmap by Morning/Afternoon/Evening/Night and Weekdays vs Weekends.
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Frontend**: Vanilla HTML/CSS/JS, Maplibre GL (Maps), Chart.js (Analytics)
 * **Backend**: FastAPI (Python), SQLAlchemy (ORM), SQLite (Database)
 * **Security**: PyJWT, bcrypt
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Setup the Backend
 Navigate to the `backend` directory and install the requirements:
