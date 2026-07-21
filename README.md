@@ -1,4 +1,4 @@
-# NoiseCheck — Tamil Nadu Noise Intelligence Platform 🎧
+# NoiseCheck — Tamil Nadu Noise Intelligence Platform 
 
 NoiseCheck is a full-stack, crowdsourced platform designed to map, track, and analyze environmental noise pollution across Tamil Nadu, India. It combines community-submitted noise readings with official federal data (US DOT NTAD 2020 simulation integration) to create an interactive decibel heatmap.
 
@@ -39,6 +39,6 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ### 4. Open the App
 Navigate to [http://localhost:8000](http://localhost:8000) in your web browser.
 
-## 🤝 Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
