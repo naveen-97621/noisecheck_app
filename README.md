@@ -41,3 +41,4 @@ Navigate to [http://localhost:8000](http://localhost:8000) in your web browser.
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
