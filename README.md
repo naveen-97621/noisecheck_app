@@ -37,7 +37,7 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ### 4. Open the App
-Navigate to [http://localhost:8000](http://localhost:8000) in your web browser.
+Navigate to https://noisecheck-platform.onrender.com in your web browser.
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
